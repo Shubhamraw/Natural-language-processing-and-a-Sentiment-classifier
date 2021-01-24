@@ -30,5 +30,6 @@ Now, we are going forward to the next step
     iv.	Special Characters, common words, rare words and punctuation removal
      v.	HTML tags removal
 6.	Visualization using wordcloud and matplotlib 
+to be continued to explain 7. 8. point clearly
 7.	Notebook also contain some advanced text processing and feature extraction operation
 8.	Choosing the best machine learning models for text classification
